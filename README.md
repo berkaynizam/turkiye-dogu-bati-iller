@@ -2,9 +2,9 @@
 
 E-ticaret gönderim bölgelerinde kargo ücretini ayarlamak için kullandığım liste. txt hali dosyalarda bulunmaktadır.
 
-### Array (Dizi) 
+### Ankara ve Batısındaki İller
 ```php
-$bati = [
+[
     'Edirne',
     'Kırklareli',
     'Tekirdağ',
